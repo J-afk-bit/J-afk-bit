@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @J-afk-bit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in scratch.mit.edu 
+- 🌱 I’m currently learning about Scratch
+
+- 💞️ I’m looking to collaborate on Scratch
+- 📫 How to reach me on scratch
 
 git clone https://github.com/username/username.github.io
 cd username username.github.io
